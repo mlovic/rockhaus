@@ -21,7 +21,7 @@ group :test do
 end
 
 group :development do
-  gem 'spring',        
+  gem 'spring'
   gem 'sqlite3'
 end
 
