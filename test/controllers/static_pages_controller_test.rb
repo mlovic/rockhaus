@@ -18,5 +18,4 @@ class StaticPagesControllerTest < ActionController::TestCase
     assert_response :success
     assert_select "title", "ROCKHAUS | About"
   end
-
 end
